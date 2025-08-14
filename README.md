@@ -76,7 +76,7 @@ Our project followed a structured data analysis workflow:
 
 For a complete overview of our research, methodology, and detailed findings, please refer to our full project report.
 
-**[Link to Full Project Document]** <--- *https://drive.google.com/file/d/10U3n0WAAXAC1X-rtn0tI8n6AyAS3GNVB/view?usp=share_link*
+[Link to Full Project Document](https://drive.google.com/file/d/10U3n0WAAXAC1X-rtn0tI8n6AyAS3GNVB/view?usp=share_link)
 
 
 ## Team
