@@ -123,8 +123,6 @@ Run the main analysis script to reproduce the results:
 python main_analysis.py
 ```
 
----
-
 ## Conclusion
 
 This project successfully provides a comprehensive, data-driven overview of the research landscape within the NITJ CSE department. The insights generated can be instrumental for strategic planning, fostering collaboration, and enhancing the department's overall research impact. Future work could involve expanding this analysis to other departments or creating a real-time interactive dashboard.
