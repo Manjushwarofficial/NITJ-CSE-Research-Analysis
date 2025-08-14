@@ -1,0 +1,324 @@
+{
+  "QueryResult": {
+    "RecordsSearched": 0,
+    "RecordsFound": 1,
+    "RecordsAvailable": 1,
+    "Warnings": []
+  },
+  "Data": {
+    "Records": [
+      {
+        "publication_summary": {
+          "nonIndexedPublications": 1,
+          "totalPublications": 14,
+          "pprnPublications": 0,
+          "wosccPublications": 13,
+          "pqdtPublications": 0,
+          "indexedPublications": 13
+        },
+        "authorId": "2252797",
+        "publonsBasicMetricsData": {
+          "publonsProfileData": {
+            "institutions": [
+              {
+                "institution": "National Institute of Technology Rourkela",
+                "department": "Computer Science and Engineering",
+                "role": "Research Scholar",
+                "startDate": "2018",
+                "endDate": "present",
+                "url": "/wos-op/institution/12484/"
+              }
+            ],
+            "researchFields": [
+              {
+                "url": "/wos-op/researcher/?research_field=291",
+                "name": "Computer Vision"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=47469",
+                "name": "Database Security"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=1459460",
+                "name": "Drone Vision"
+              },
+              {
+                "url": "/wos-op/researcher/?research_field=1386958",
+                "name": "Machine Learning Applications"
+              }
+            ],
+            "awards": [],
+            "institutionsUrl": "/wos-op/dashboard/settings/affiliations/",
+            "researchFieldsUrl": "/wos-op/dashboard/settings/profile/"
+          },
+          "publonsIndividualStatsData": {
+            "ready": true,
+            "citationsPerYear": {
+              "1950": "0",
+              "1951": "0",
+              "1952": "0",
+              "1953": "0",
+              "1954": "0",
+              "1955": "0",
+              "1956": "0",
+              "1957": "0",
+              "1958": "0",
+              "1959": "0",
+              "1960": "0",
+              "1961": "0",
+              "1962": "0",
+              "1963": "0",
+              "1964": "0",
+              "1965": "0",
+              "1966": "0",
+              "1967": "0",
+              "1968": "0",
+              "1969": "0",
+              "1970": "0",
+              "1971": "0",
+              "1972": "0",
+              "1973": "0",
+              "1974": "0",
+              "1975": "0",
+              "1976": "0",
+              "1977": "0",
+              "1978": "0",
+              "1979": "0",
+              "1980": "0",
+              "1981": "0",
+              "1982": "0",
+              "1983": "0",
+              "1984": "0",
+              "1985": "0",
+              "1986": "0",
+              "1987": "0",
+              "1988": "0",
+              "1989": "0",
+              "1990": "0",
+              "1991": "0",
+              "1992": "0",
+              "1993": "0",
+              "1994": "0",
+              "1995": "0",
+              "1996": "0",
+              "1997": "0",
+              "1998": "0",
+              "1999": "0",
+              "2000": "0",
+              "2001": "0",
+              "2002": "0",
+              "2003": "0",
+              "2004": "0",
+              "2005": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2012": "0",
+              "2013": "0",
+              "2014": "0",
+              "2015": "0",
+              "2016": "0",
+              "2017": "2",
+              "2018": "3",
+              "2019": "2",
+              "2020": "4",
+              "2021": "11",
+              "2022": "20",
+              "2023": "45",
+              "2024": "60"
+            },
+            "averagePerItem": 11.31,
+            "averagePerYear": 18.38,
+            "hIndex": 7.0,
+            "timesCited": 147,
+            "dedupedTimesCited": 128,
+            "numPublicationsInWosCc": 13,
+            "timesCitedInDiidw": 13,
+            "dedupedTimesCitedInDiidw": 13,
+            "numPqdtPublications": 0
+          },
+          "publonsStatData": {
+            "ready": true,
+            "total": {
+              "verifiedReviews": 14.0,
+              "verifiedReviews12Mo": 7.0,
+              "reviewRatio": 1.1428571428571428,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "median": {
+              "verifiedReviews": 4.0,
+              "verifiedReviews12Mo": 0.0,
+              "reviewRatio": 0.30434782608695654,
+              "verifiedEditorRecords": 0.0,
+              "verifiedEditorRecords12Mo": 0.0
+            },
+            "percentile": {
+              "verifiedReviews": 0.79,
+              "verifiedReviews12Mo": 0.94,
+              "reviewRatio": 0.83,
+              "verifiedEditorRecords": 0.98,
+              "verifiedEditorRecords12Mo": 0.99
+            }
+          }
+        },
+        "wos_stats": {
+          "total_times_cited": 147,
+          "total_citing_articles_without_self_citations": 121,
+          "h_index": 7,
+          "total_citing_articles": 128,
+          "total_articles": 13,
+          "total_times_cited_without_self_citations": 126
+        },
+        "diidw_stats": {
+          "total_times_cited": 13,
+          "total_citing_articles_without_self_citations": 13,
+          "h_index": 0,
+          "total_citing_articles": 13,
+          "total_articles": 13,
+          "total_times_cited_without_self_citations": 13
+        },
+        "grants_stats": {
+          "total_articles": 0
+        }
+      },{
+        "author_name": "Behera, Tanmay Kumar",
+        "fullJournalsList": [
+          {
+            "count": "1",
+            "value": "BIG DATA RESEARCH"
+          },
+          {
+            "count": "1",
+            "value": "INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND NETWORKS"
+          },
+          {
+            "count": "1",
+            "value": "IT PROFESSIONAL"
+          },
+          {
+            "count": "1",
+            "value": "SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTATIONAL INTELLIGENCE IN DATA MINING, CIDM 2016"
+          },
+          {
+            "count": "1",
+            "value": "2017 3RD INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND NETWORKS (CINE)"
+          },
+          {
+            "count": "1",
+            "value": "PATTERN RECOGNITION LETTERS"
+          },
+          {
+            "count": "1",
+            "value": "JOURNAL OF SIGNAL PROCESSING SYSTEMS FOR SIGNAL IMAGE AND VIDEO TECHNOLOGY"
+          },
+          {
+            "count": "1",
+            "value": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS"
+          },
+          {
+            "count": "1",
+            "value": "IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING"
+          },
+          {
+            "count": "1",
+            "value": "ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING"
+          },
+          {
+            "count": "1",
+            "value": "IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS"
+          },
+          {
+            "count": "1",
+            "value": "2015 SECOND INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING AND COMMUNICATION ENGINEERING ICACCE 2015"
+          },
+          {
+            "count": "1",
+            "value": "2017 2ND INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY (I2CT)"
+          },
+          {
+            "count": "1",
+            "value": "COMPUTERS AND ELECTRONICS IN AGRICULTURE"
+          }
+        ],
+        "authorAliasName": "Behera, Tanmay Kumar",
+        "affiliations": [
+          {
+            "value": "National Institute of Technology Rourkela",
+            "count": 8,
+            "maxYear": 2024,
+            "minYear": 2021
+          },
+          {
+            "value": "National Institute of Technology (NIT System)",
+            "count": 1,
+            "maxYear": 2023,
+            "minYear": 2023
+          },
+          {
+            "value": "Veer Surendra Sai University of Technology",
+            "count": 4,
+            "maxYear": 2017,
+            "minYear": 2015
+          }
+        ],
+        "primaryAffiliationLocation": "ROURKELA, ODISHA, INDIA",
+        "rid": "AAK-7869-2021",
+        "institution": "National Institute of Technology Rourkela",
+        "photoUrlLarge": "https://publons.com/media/thumbs/academic/photos/a794a676-98bf-4397-b18d-cddb47ea2900.jpg.200x200_q95_crop_detail_upscale.jpg",
+        "showPublishedNames": true,
+        "categories": [
+          "Computer Science",
+          "Engineering",
+          "Telecommunications",
+          "Imaging Science & Photographic Technology",
+          "Remote Sensing",
+          "Medical Informatics",
+          "Physical Geography",
+          "Mathematical & Computational Biology",
+          "Operations Research & Management Science",
+          "Agriculture"
+        ],
+        "alternativeName": [
+          {
+            "value": "Behera, Tanmay Kumar",
+            "count": 13
+          }
+        ],
+        "academy": {
+          "isAcademyGraduate": null,
+          "isAcademySupervisor": null
+        },
+        "claim_status": true,
+        "topics": null,
+        "showOrganizationNames": true,
+        "orcid": "0000-0001-5401-5804",
+        "publishingName": "Tanmay Kumar Behera",
+        "authorId": "2252797",
+        "primaryAffiliation": "National Institute of Technology Rourkela",
+        "primaryInstitutionAffiliation": {
+          "institution": "National Institute of Technology Rourkela",
+          "department": "Computer Science and Engineering",
+          "role": "Research Scholar",
+          "startDate": "2018",
+          "endDate": "present",
+          "url": "/wos-op/institution/12484/"
+        },
+        "primaryAffiliationDepartment": [
+          "National Institute of Technology Rourkela Department of Computer Science and Engineering"
+        ],
+        "excellentReviews": {
+          "excellentReviewsCount": 0,
+          "isExcellentReviewer": false
+        }
+      }
+    ]
+  }
+}
